@@ -1,0 +1,26 @@
+/* --primary: #150080 */
+
+
+:root{
+  --primary:#071729;
+  --accent: rgb(7, 43, 16);
+--bg: #ffffff;
+--bg-accent: #e7e8e9;
+--disabled: #9c9c9c;
+--foreground: #6e7006;
+
+}
+
+body {
+  font-family: monospace;
+  background:linear-gradient(20deg, var(--primary) 0.5%, var(--accent));
+  color: var(--foreground);
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0 30px;
+  min-height: 100vh;
+}
+
+
+

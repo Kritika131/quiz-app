@@ -1,0 +1,30 @@
+.result{
+  text-align: center;
+}
+.result h3{
+  padding: 10px 0 ;
+  margin: 0;
+  font-size: 28px;
+  
+}
+table{
+  width:50%;
+  text-align: left;
+  margin:50px auto 20px;
+  border-collapse: collapse ;
+}
+tr{
+  border: 1px solid;
+}
+.result p {
+ 
+  margin: 0;
+  text-align: center;
+}
+.result h4{
+  font-size: 22px;
+  margin-bottom: -0.3rem;
+}
+.result input{
+  font-size: 18px;
+}
